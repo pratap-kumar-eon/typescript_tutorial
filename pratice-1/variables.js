@@ -1,5 +1,4 @@
 "use strict";
-exports.__esModule = true;
 var a = "Hello World";
 a.toUpperCase();
 console.log(a);

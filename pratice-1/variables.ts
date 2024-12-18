@@ -1,13 +1,8 @@
-let a:string = "Hello World";
+"use strict";
+var a = "Hello World";
 a.toUpperCase();
 console.log(a);
-
 // number
-
-let pi:number = 123.23;
-
+var pi = 123.23;
 //boolean
-
-let isloggedin:boolean = false;
-
-export{}
+var isloggedin = false;
